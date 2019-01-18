@@ -5,3 +5,4 @@ now this file is edited to understand the ammend option
 
 
 # these changes will be unstaged later
+now we'll move on to Auto resolution merge. In this merge git looks creates a new commit which has two parent commits-one from each branch
